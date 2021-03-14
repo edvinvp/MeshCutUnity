@@ -5,4 +5,4 @@ Not optimized for real use, rather a proof of concept. Cutting the sphere prefab
 approximately 3.5 ms.
 
 ## Video Demo
-[![MeshCut Demo](https://imgur.com/MtGElUp)](https://www.youtube.com/watch?v=DhLklyPnddg "MeshCut Demo")
+[![MeshCut Demo](https://i.imgur.com/MtGElUp.png)](https://www.youtube.com/watch?v=DhLklyPnddg "MeshCut Demo")
